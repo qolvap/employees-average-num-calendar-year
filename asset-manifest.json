@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/employees-average-num-calendar-year/static/css/main.0dca2554.css",
+    "main.js": "/employees-average-num-calendar-year/static/js/main.66fbb17d.js",
+    "index.html": "/employees-average-num-calendar-year/index.html",
+    "main.0dca2554.css.map": "/employees-average-num-calendar-year/static/css/main.0dca2554.css.map",
+    "main.66fbb17d.js.map": "/employees-average-num-calendar-year/static/js/main.66fbb17d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dca2554.css",
+    "static/js/main.66fbb17d.js"
+  ]
+}
